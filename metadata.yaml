@@ -1,0 +1,6 @@
+homepage: "https://www.upstreamsystems.com/"
+documentation: ""
+versions:
+    # Latest version
+    - sha: ADD_SHA_HERE
+    changeNotes: Initial release
